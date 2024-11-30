@@ -107,8 +107,7 @@ astro-guide/
 
 Для вопросов или сотрудничества свяжитесь со мной через [Kwork](https://kwork.ru/user/easyslav).
 
----
 
 © 2024, [i-chernousov]
-```
+
 
